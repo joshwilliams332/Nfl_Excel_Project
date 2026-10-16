@@ -1,0 +1,7 @@
+# Raw data downloaded by update_nfl_data.py
+*.csv
+
+# Excel lock/temp files
+~$*
+
+__pycache__/
