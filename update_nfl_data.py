@@ -46,6 +46,36 @@ files = {
         "ftn_charting/ftn_charting_2026.csv",
         "ftn_charting_2026.csv"
     ),
+    
+    "Schedule": (
+        "https://github.com/nflverse/nfldata/raw/master/data/games.csv",
+        "schedules.csv"
+    ),
+
+   "PFR Advanced Passing": (
+        "https://github.com/nflverse/nflverse-data/releases/download/"
+        "pfr_advstats/advstats_week_pass_2026.csv",
+        "pfr_advstats_pass_2026.csv"
+    ),
+
+    "PFR Advanced Rushing": (
+        "https://github.com/nflverse/nflverse-data/releases/download/"
+        "pfr_advstats/advstats_week_rush_2026.csv",
+        "pfr_advstats_rush_2026.csv"
+    ),
+
+    "PFR Advanced Receiving": (
+        "https://github.com/nflverse/nflverse-data/releases/download/"
+        "pfr_advstats/advstats_week_rec_2026.csv",
+        "pfr_advstats_rec_2026.csv"
+    ),
+
+    "Team weekly stats": (
+    "https://github.com/nflverse/nflverse-data/releases/download/"
+    "stats_team/stats_team_week_2026.csv",
+    "stats_team_week_2026.csv"
+),
+
 }
 
 print("\nUpdating NFL data...\n")
